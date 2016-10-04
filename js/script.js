@@ -168,8 +168,8 @@ $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
         $(".typewrite span").typed({
-            strings: ["show case ", "projects "],
-            typeSpeed: 100,
+            strings: ["show case ", "projects ", "porfolio"],
+            typeSpeed: 80,
             backDelay: 500,
             loop: false,
             contentType: 'html', // or text
