@@ -171,7 +171,7 @@ $(document).ready(function(){
             strings: ["show case ", "projects ", "porfolio"],
             typeSpeed: 80,
             backDelay: 500,
-            loop: false,
+            loop: true,
             contentType: 'html', // or text
             // defaults to false for infinite loop
             loopCount: false,
