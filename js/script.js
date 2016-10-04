@@ -169,7 +169,7 @@ $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
         $(".typewrite span").typed({
-            strings: ["fresh ", "contemporary ", "coffee-loving ", "creative "],
+            strings: ["fresh ", "contemporary", "coffee-loving", "creative "],
             typeSpeed: 80,
             backDelay: 1500,
             loop: true,
