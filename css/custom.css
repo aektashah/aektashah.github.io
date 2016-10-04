@@ -7,6 +7,13 @@
   line-height:60px;
 }
 
+.footer-margin .social-footer a{
+  font-size:25px !important;
+}
+
+.footer-margin{
+  line-height: 75px !important;
+}
 
 @media all and (max-width: 1330px) and (min-width: 1180px) {
 
