@@ -7,6 +7,48 @@
   line-height:60px;
 }
 
-.content .text-intro h2 {
-	width: 60%;
+
+@media all and (max-width: 1330px) and (min-width: 1180px) {
+
+	.content .text-intro h2{
+	    width:60%;
+	  }
+
+}
+
+@media all and (max-width: 1179px) and (min-width: 1024px) {
+
+  	.content .text-intro h2{
+    	width:60%;
+ 	}
+
+}
+
+@media all and (max-width: 1023px) and (min-width: 769px) {
+
+	.content .text-intro h2{
+    	width:100%;
+  	}
+
+}
+
+@media all and (max-width: 768px) and (min-width: 481px) { 
+
+  	.content .text-intro h2{
+    	width:100% !important;
+  	}
+
+}
+
+@media all and (max-width: 480px) and (min-width: 320px) {
+
+	.content .text-intro h2{
+    	width:100% !important;
+  	}
+
+  	.content .text-intro h2{
+	    font-size:28px; 
+	    line-height:40px;
+  	}
+
 }
