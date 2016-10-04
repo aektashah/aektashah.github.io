@@ -163,6 +163,7 @@ Typewriting init script
 
 function Typewriting() {
 
+// Edited 
 
 $(document).ready(function(){
 	setTimeout( function(){
@@ -170,7 +171,7 @@ $(document).ready(function(){
         $(".typewrite span").typed({
             strings: ["fresh ", "contemporary ", "coffee-loving ", "creative "],
             typeSpeed: 80,
-            backDelay: 500,
+            backDelay: 1500,
             loop: true,
             contentType: 'html', // or text
             // defaults to false for infinite loop

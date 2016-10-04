@@ -1,0 +1,12 @@
+.content .text-intro h2{
+  font-size:38px;
+  width:40%;
+  text-transform:uppercase;
+  color:#000000;
+  font-weight:700;
+  line-height:60px;
+}
+
+.content .text-intro h2 {
+	width: 60%;
+}
