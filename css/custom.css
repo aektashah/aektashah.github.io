@@ -1,9 +1,9 @@
 .content .text-intro h2{
-  font-size:38px;
+  font-size: 30px;
   width:40%;
-  text-transform:uppercase;
+/*  text-transform:uppercase;*/
   color:#000000;
-  font-weight:700;
+  font-weight:500;
   line-height:60px;
 }
 
